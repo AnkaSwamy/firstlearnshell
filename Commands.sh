@@ -1,3 +1,2 @@
-ls -l
-pwd
-yum list installed | grep vim
+a=10
+echo $a
