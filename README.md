@@ -5,3 +5,4 @@ Topics of Shell scripting
 2) printing
 3) color codes
 4) checking pull command
+5) push, ansible
