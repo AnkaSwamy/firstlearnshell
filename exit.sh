@@ -1,3 +1,3 @@
 echo hello
-exit
+exit 1
 echo bye
