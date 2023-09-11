@@ -1,4 +1,4 @@
-Topics of Shell Scripting  in Devops
+Topics of Shell Scripting  in Devops with cloud
 1. Comments
 2. Printing
 3. Variables
